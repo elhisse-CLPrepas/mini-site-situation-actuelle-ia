@@ -1,13 +1,13 @@
 ﻿# Situation-Actuelle-IA — Collection LN-IA
 
-Mini-site pédagogique public pour comprendre les transformations de l’IA, produire avec méthode et transmettre sous contrôle humain.
+Comprendre l’IA, produire avec méthode et garder le cap humain.
 
-- Objectif : présenter la démarche, l’atelier et les affiches LN-IA.
-- Source : fichiers compilés de la version locale du mini-site LN-IA.
-- Version : V0.1 — 11 novembre 2026.
-- Statut : première version publique de présentation ; formulaire en préparation.
-- Prochaine action : contrôler le rendu sur téléphone et finaliser les ressources pédagogiques.
+- Objectif : présenter la démarche et les ressources pédagogiques LN-IA.
+- Source : sortie statique de la version V0.2 du mini-site ; logo et liens fournis par le pilote.
+- Version : V0.2 — 11 novembre 2026.
+- Statut : présentation publique ; formulaire visible, collecte non activée.
+- Prochaine action : déployer le service Google de demande du guide puis vérifier le parcours réel avant activation.
 
 Site : https://elhisse-clprepas.github.io/mini-site-situation-actuelle-ia/
 
-Ce dépôt contient uniquement les fichiers statiques destinés au site public. Aucun document de travail, script Apps Script, fichier de configuration privé ni donnée personnelle n’est inclus.
+La page intègre le logo officiel, trois affiches téléchargeables, les liens LinkedIn, groupe WhatsApp et Facebook. Les e-mails ne sont pas stockés dans ce dépôt. Aucun script Apps Script, document de travail privé ou donnée de demandeur n’est publié ici.
